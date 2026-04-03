@@ -1,0 +1,2 @@
+# VMwareWorkstations
+官网的VMwareWorkstation安装包带激活码
