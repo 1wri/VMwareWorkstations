@@ -26,3 +26,10 @@ MC60H-DWHD5-H80U9-6V85M-8280D
 
 ![01.jpg](imgs%2F01.jpg)
 
+### 扫码关注公众号 获取更多项目和编程资料
+
+关注公众号：小猿天天学习
+
+公众号ID：xzzard
+
+![img.png](imgs%2Fimg.png)
